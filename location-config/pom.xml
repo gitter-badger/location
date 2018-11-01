@@ -13,7 +13,6 @@
     <modules>
         <module>location-config-server</module>
         <module>location-config-client</module>
-        <module>location-config-server</module>
     </modules>
 
     <!--父项目-->
